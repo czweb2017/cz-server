@@ -1,6 +1,6 @@
 # cz-server
 
-> My shining Nuxt.js project
+> WarIII Icons station
 
 ## Build Setup
 
